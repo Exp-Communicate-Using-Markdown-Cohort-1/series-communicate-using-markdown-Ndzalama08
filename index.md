@@ -8,3 +8,9 @@ This was an initially empty file and I have written the following information as
 ```
 System.out.println("Hello world!");
 ```
+# <h5> This section shows a checklist and the syntax
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+- [ ] Post my first project
+- [ ] Improve on my program 
