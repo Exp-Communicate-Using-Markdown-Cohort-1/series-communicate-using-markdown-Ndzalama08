@@ -13,4 +13,4 @@ System.out.println("Hello world!");
 - [x] Outline my portfolio
 - [x] Introduce myself to the world
 - [ ] Post my first project
-- [ ] Improve on my program 
+- [ ] Improve on my project 
